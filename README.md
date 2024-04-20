@@ -1,1 +1,1 @@
-# Pizaa_sales-SQL
+# Pizza_sales-SQL based project
